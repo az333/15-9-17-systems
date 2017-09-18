@@ -26,12 +26,7 @@ int problem_two() {
   return sum;
 
 }
-
-int problem_three() {
-  int x = 600851475143;
-  
-
-} 
+ 
  
 int main() {
   printf("The sum of all the multiples of 3 or 5 below 1000 is %d\n", problem_one());
